@@ -9,3 +9,5 @@ git rm <files>                  -- remove files
 git checkout <branchname>       -- move to branch
 git stash                       -- pops changes onto stack
 git status                      -- get state of the project
+git config --global <key> <val> -- update a setting
+git config -v                   -- show settings
