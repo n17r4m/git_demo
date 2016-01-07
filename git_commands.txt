@@ -1,0 +1,11 @@
+git clone <url>                 -- retrieve repo
+git remote -v                   -- list remotes
+git branch -a                   -- list branches
+git branch <branchname>         -- create branch
+git push -u origin <branchname> -- push new branch
+git add .                       -- add new files
+git commit -am<message>         -- commit changes
+git rm <files>                  -- remove files
+git checkout <branchname>       -- move to branch
+git stash                       -- pops changes onto stack
+git status                      -- get state of the project
